@@ -1,2 +1,2 @@
-def meal_choice(eat = "meat", vegan)
+("meat", vegan)
 end 
