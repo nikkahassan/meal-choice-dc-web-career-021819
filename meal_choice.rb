@@ -1,1 +1,0 @@
-def meal_choice( x, 'meat')
